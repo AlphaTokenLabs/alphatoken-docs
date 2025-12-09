@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Alpha Chain Network Information
 
+![](/img/alphachain-logo.svg)
+
 ## AlphaChain Testnet
 
 - ChainID: 511111
